@@ -1,0 +1,433 @@
+Country,Election type,Year,Voter Turnout,Registration,Voting age population,Population,Compulsory voting
+Australia,Parliamentary,2016,91.01 %,"15,671,551 ","18,063,010 ","22,992,654 ",Yes
+Australia,Parliamentary,2013,93.23 %,"14,722,754 ","17,406,251 ","22,262,501 ",Yes
+Australia,Parliamentary,2010,93.22 %,"14,086,869 ","16,208,479 ","21,515,754 ",Yes
+Australia,Parliamentary,2007,94.76 %,"13,646,539 ","15,696,515 ","20,434,176 ",Yes
+Australia,Parliamentary,2004,94.32 %,"13,098,461 ","14,999,498 ","19,913,144 ",Yes
+Australia,Parliamentary,2001,94.85 %,"12,708,837 ","14,316,998 ","19,294,257 ",Yes
+Australia,Parliamentary,1998,94.99 %,"12,154,050 ","14,039,112 ","18,750,982 ",Yes
+Australia,Parliamentary,1996,95.77 %,"11,740,568 ","13,547,920 ","18,308,000 ",Yes
+Australia,Parliamentary,1993,95.75 %,"11,384,638 ","13,065,440 ","17,656,000 ",Yes
+Australia,Parliamentary,1990,95.31 %,"10,728,435 ","12,457,450 ","17,065,000 ",Yes
+Australia,Parliamentary,1987,93.84 %,"10,353,213 ","11,546,730 ","16,263,000 ",Yes
+Australia,Parliamentary,1984,94.19 %,"9,866,266 ","11,036,240 ","15,544,000 ",Yes
+Australia,Parliamentary,1983,94.64 %,"9,372,064 ","10,919,090 ","15,379,000 ",Yes
+Australia,Parliamentary,1980,94.35 %,"9,023,592 ","10,139,550 ","14,695,000 ",Yes
+Austria,Parliamentary,2017,80.00 %,"6,400,993 ","7,443,978 ","8,754,413 ",No
+Austria,Parliamentary,2013,74.91 %,"6,384,331 ","7,260,801 ","8,562,634 ",No
+Austria,Parliamentary,2008,78.81 %,"6,333,109 ","6,600,595 ","8,205,533 ",No
+Austria,Parliamentary,2006,78.49 %,"6,107,892 ","6,548,332 ","8,192,880 ",No
+Austria,Parliamentary,2002,84.27 %,"5,912,592 ","6,432,768 ","8,150,835 ",No
+Austria,Parliamentary,1999,80.42 %,"5,838,373 ","6,463,384 ","8,156,351 ",No
+Austria,Parliamentary,1995,85.98 %,"5,768,009 ","6,306,300 ","8,085,000 ",No
+Austria,Parliamentary,1994,82.46 %,"5,774,000 ","6,263,129 ","8,029,717 ",No
+Austria,Parliamentary,1990,86.14 %,"5,628,912 ","6,025,250 ","7,825,000 ",No
+Austria,Parliamentary,1986,90.46 %,"5,461,414 ","5,673,750 ","7,565,000 ",No
+Austria,Parliamentary,1983,92.59 %,"5,316,436 ","5,664,000 ","7,552,000 ",No
+Austria,Presidential,2016,72.75 %,"6,382,507 ","7,406,128 ","8,711,770 ",No
+Austria,Presidential,2010,53.57 %,"6,355,800 ","7,117,194 ","8,447,901 ",No
+Austria,Presidential,2004,71.60 %,"6,030,982 ","6,493,724 ","8,188,207 ",No
+Austria,Presidential,1998,74.40 %,"5,848,584 ","6,344,138 ","8,087,215 ",No
+Austria,Presidential,1992,80.91 %,"5,676,903 ","6,070,680 ","7,884,000 ",No
+Austria,Presidential,1986,87.29 %,"5,436,846 ","5,673,750 ","7,565,000 ",No
+Austria,Presidential,1980,91.63 %,"5,215,875 ","5,510,770 ","7,549,000 ",Yes
+Belgium,Parliamentary,2014,89.37 %,"8,008,776 ","8,206,762 ","10,449,361 ",Yes
+Belgium,Parliamentary,2010,89.22 %,"7,767,552 ","8,186,446 ","10,423,493 ",Yes
+Belgium,Parliamentary,2007,91.08 %,"7,720,796 ","8,176,805 ","10,392,226 ",Yes
+Belgium,Parliamentary,2003,91.63 %,"7,570,637 ","8,070,793 ","10,274,595 ",Yes
+Belgium,Parliamentary,1999,90.57 %,"7,343,466 ","7,999,572 ","10,199,967 ",Yes
+Belgium,Parliamentary,1995,91.15 %,"7,199,440 ","7,887,360 ","10,112,000 ",Yes
+Belgium,Parliamentary,1991,92.71 %,"7,144,884 ","7,783,620 ","9,979,000 ",Yes
+Belgium,Parliamentary,1987,93.38 %,"7,039,250 ","7,599,900 ","9,870,000 ",Yes
+Belgium,Parliamentary,1985,93.59 %,"7,001,297 ","7,590,660 ","9,858,000 ",Yes
+Belgium,Parliamentary,1981,94.56 %,"6,878,141 ","6,896,400 ","9,852,000 ",Yes
+Canada,Parliamentary,2015,68.28 %,"25,939,742 ","28,512,041 ","35,099,836 ",No
+Canada,Parliamentary,2011,61.11 %,"24,257,592 ","27,368,468 ","34,030,589 ",No
+Canada,Parliamentary,2008,59.52 %,"23,401,064 ","25,993,117 ","33,212,696 ",No
+Canada,Parliamentary,2006,64.67 %,"23,054,615 ","25,374,410 ","32,805,041 ",No
+Canada,Parliamentary,2004,60.91 %,"22,466,621 ","24,751,763 ","32,207,113 ",No
+Canada,Parliamentary,2000,61.18 %,"21,243,473 ","23,786,167 ","31,213,580 ",No
+Canada,Parliamentary,1997,67.00 %,"19,663,478 ","23,088,803 ","30,785,070 ",No
+Canada,Parliamentary,1993,69.64 %,"19,906,796 ","21,705,750 ","28,941,000 ",No
+Canada,Parliamentary,1988,75.29 %,"17,639,001 ","19,433,250 ","25,911,000 ",No
+Canada,Parliamentary,1984,75.34 %,"16,775,011 ","18,611,000 ","25,150,000 ",No
+Canada,Parliamentary,1980,69.32 %,"15,890,416 ","17,070,530 ","24,043,000 ",No
+Chile,Parliamentary,2017,46.53 %,"14,347,288 ","13,472,122 ","17,789,267 ",No
+Chile,Parliamentary,2013,49.35 %,"13,573,143 ","12,456,705 ","17,216,945 ",No
+Chile,Parliamentary,2009,87.67 %,"8,285,186 ","12,180,403 ","16,601,707 ",Yes
+Chile,Parliamentary,2005,87.67 %,"8,220,897 ","11,322,769 ","15,116,435 ",Yes
+Chile,Parliamentary,2001,87.11 %,"8,075,446 ","10,506,435 ","15,331,887 ",Yes
+Chile,Parliamentary,1997,87.32 %,"8,069,624 ","9,634,638 ","14,622,354 ",Yes
+Chile,Parliamentary,1993,90.96 %,"8,085,439 ","8,978,450 ","13,813,000 ",Yes
+Chile,Parliamentary,1989,94.73 %,"7,556,613 ","8,295,040 ","12,961,000 ",Yes
+Chile,Presidential,2017,46.70 %,"14,347,288 ","13,472,122 ","17,789,267 ",No
+Chile,Presidential,2013,41.98 %,"13,573,143 ","12,456,705 ","17,216,945 ",No
+Chile,Presidential,2010,86.94 %,"8,285,186 ","12,180,403 ","16,746,491 ",Yes
+Chile,Presidential,2006,87.12 %,"8,220,897 ","11,322,769 ","16,150,835 ",Yes
+Chile,Presidential,2000,90.63 %,"8,084,476 ","10,126,098 ","15,155,741 ",Yes
+Chile,Presidential,1993,90.47 %,"8,085,439 ","8,978,450 ","13,813,000 ",Yes
+Chile,Presidential,1989,94.72 %,"7,556,613 ","8,295,040 ","12,961,000 ",Yes
+Czech Republic,Parliamentary,2017,60.79 %,"8,374,501 ","8,774,665 ","10,674,723 ",No
+Czech Republic,Parliamentary,2013,59.48 %,"8,424,227 ","8,347,604 ","10,162,921 ",No
+Czech Republic,Parliamentary,2010,62.60 %,"8,415,892 ","8,466,396 ","10,201,707 ",No
+Czech Republic,Parliamentary,2006,64.47 %,"8,333,305 ","8,250,612 ","10,235,455 ",No
+Czech Republic,Parliamentary,2002,57.95 %,"8,264,484 ","8,113,689 ","10,264,212 ",No
+Czech Republic,Parliamentary,1998,74.00 %,"8,116,836 ","7,827,723 ","10,291,000 ",No
+Czech Republic,Parliamentary,1996,76.29 %,"7,990,770 ","7,859,160 ","10,341,000 ",No
+Czech Republic,Parliamentary,1992,84.68 %,"11,515,699 ","11,640,940 ","15,731,000 ",No
+Czech Republic,Parliamentary,1990,96.33 %,"11,195,596 ","11,589,140 ","15,661,000 ",No
+Czech Republic,Presidential,2013,59.08 %,"8,434,941 ","8,446,141 ","10,177,300 ",No
+Denmark,Parliamentary,2015,85.89 %,"4,145,105 ","4,431,291 ","5,581,503 ",No
+Denmark,Parliamentary,2011,87.74 %,"4,079,910 ","4,374,759 ","5,529,888 ",No
+Denmark,Parliamentary,2007,86.59 %,"4,022,920 ","4,186,873 ","5,468,120 ",No
+Denmark,Parliamentary,2005,84.54 %,"4,003,616 ","4,161,254 ","5,413,392 ",No
+Denmark,Parliamentary,2001,87.15 %,"3,998,957 ","4,132,213 ","5,352,815 ",No
+Denmark,Parliamentary,1998,85.95 %,"3,993,009 ","4,128,398 ","5,225,820 ",No
+Denmark,Parliamentary,1994,84.25 %,"3,988,787 ","4,111,950 ","5,205,000 ",No
+Denmark,Parliamentary,1990,82.85 %,"3,941,499 ","4,060,600 ","5,140,000 ",No
+Denmark,Parliamentary,1988,85.70 %,"3,911,897 ","4,052,700 ","5,130,000 ",No
+Denmark,Parliamentary,1987,86.74 %,"3,907,454 ","3,947,790 ","5,127,000 ",No
+Denmark,Parliamentary,1984,88.44 %,"3,829,600 ","3,936,240 ","5,112,000 ",No
+Denmark,Parliamentary,1981,87.77 %,"3,776,333 ","3,841,500 ","5,122,000 ",No
+Estonia,Parliamentary,2015,64.23 %,"899,793 ","1,017,053 ","1,249,312 ",No
+Estonia,Parliamentary,2011,63.53 %,"913,346 ","1,046,458 ","1,329,660 ",No
+Estonia,Parliamentary,2007,61.91 %,"897,243 ","1,039,335 ","1,315,912 ",No
+Estonia,Parliamentary,2003,58.24 %,"859,714 ","1,040,400 ","1,415,681 ",No
+Estonia,Parliamentary,1999,57.43 %,"857,270 ","1,071,447 ","1,415,236 ",No
+Estonia,Parliamentary,1995,68.91 %,"791,957 ","1,117,500 ","1,490,000 ",No
+Estonia,Parliamentary,1992,67.84 %,"689,319 ","1,142,560 ","1,544,000 ",No
+Estonia,Parliamentary,1990,78.20 %,"1,163,683 ","1,162,540 ","1,571,000 ",No
+Finland,Parliamentary,2015,66.85 %,"4,463,333 ","4,079,928 ","5,475,450 ",No
+Finland,Parliamentary,2011,67.37 %,"4,387,701 ","4,061,911 ","5,259,250 ",No
+Finland,Parliamentary,2007,65.02 %,"4,292,436 ","4,093,161 ","5,231,372 ",No
+Finland,Parliamentary,2003,66.71 %,"4,220,951 ","4,024,992 ","5,183,545 ",No
+Finland,Parliamentary,1999,65.27 %,"4,152,430 ","4,155,857 ","5,180,030 ",No
+Finland,Parliamentary,1995,68.58 %,"4,088,358 ","3,941,630 ","5,119,000 ",No
+Finland,Parliamentary,1991,68.39 %,"4,060,778 ","3,860,780 ","5,014,000 ",No
+Finland,Parliamentary,1987,72.06 %,"4,018,248 ","3,748,320 ","4,932,000 ",No
+Finland,Parliamentary,1983,75.73 %,"3,951,932 ","3,690,560 ","4,856,000 ",No
+Finland,Presidential,2012,68.86 %,"4,172,200 ","4,051,121 ","5,262,930 ",No
+Finland,Presidential,2006,74.05 %,"4,272,537 ","4,079,025 ","5,223,442 ",No
+Finland,Presidential,2000,76.80 %,"4,167,204 ","4,166,662 ","5,180,030 ",No
+Finland,Presidential,1994,76.96 %,"4,150,000 ","3,923,150 ","5,095,000 ",No
+Finland,Presidential,1988,77.83 %,"4,036,169 ","3,808,420 ","4,946,000 ",No
+Finland,Presidential,1982,81.31 %,"3,921,005 ","3,620,250 ","4,827,000 ",No
+France,Parliamentary,2017,42.64 %,"47,293,103 ","52,211,196 ","67,106,161 ",No
+France,Parliamentary,2012,55.40 %,"43,233,648 ","51,979,508 ","65,630,692 ",No
+France,Parliamentary,2007,59.98 %,"35,224,953 ","48,651,555 ","63,713,926 ",No
+France,Parliamentary,2002,60.32 %,"36,783,746 ","46,955,234 ","59,551,227 ",No
+France,Parliamentary,1997,67.96 %,"39,215,743 ","44,521,902 ","58,581,450 ",No
+France,Parliamentary,1993,68.93 %,"38,968,660 ","43,826,920 ","57,667,000 ",No
+France,Parliamentary,1988,66.18 %,"36,977,321 ","42,088,500 ","56,118,000 ",No
+France,Parliamentary,1986,78.48 %,"36,614,738 ","41,104,040 ","55,546,000 ",No
+France,Parliamentary,1981,70.87 %,"35,536,041 ","39,395,180 ","53,966,000 ",No
+France,Presidential,2017,74.56 %,"47,568,588 ","52,211,196 ","67,106,161 ",No
+France,Presidential,2012,80.35 %,"46,066,307 ","52,001,970 ","65,630,692 ",No
+France,Presidential,2007,83.97 %,"44,472,733 ","48,651,555 ","63,713,926 ",No
+France,Presidential,2002,79.71 %,"41,191,169 ","46,955,234 ","59,551,227 ",No
+France,Presidential,1995,79.68 %,"39,976,944 ","44,080,760 ","58,007,000 ",No
+France,Presidential,1988,84.20 %,"38,200,000 ","42,088,500 ","56,118,000 ",No
+France,Presidential,1981,83.38 %,"36,398,762 ","39,395,480 ","53,966,000 ",No
+Germany,Parliamentary,2017,76.15 %,"61,688,485 ","67,975,700 ","80,594,017 ",No
+Germany,Parliamentary,2013,71.53 %,"61,946,900 ","67,068,214 ","81,147,265 ",No
+Germany,Parliamentary,2009,70.78 %,"62,168,489 ","68,114,735 ","81,837,700 ",No
+Germany,Parliamentary,2005,77.65 %,"61,870,711 ","66,738,702 ","82,431,390 ",No
+Germany,Parliamentary,2002,79.08 %,"61,432,868 ","66,136,352 ","83,029,536 ",No
+Germany,Parliamentary,1998,82.20 %,"60,762,751 ","66,313,874 ","82,172,259 ",No
+Germany,Parliamentary,1994,78.97 %,"60,452,009 ","65,942,100 ","81,410,000 ",No
+Germany,Parliamentary,1990,77.76 %,"60,436,560 ","64,285,650 ","79,365,000 ",No
+Germany,Parliamentary,1987,84.33 %,"45,327,982 ","50,954,310 ","64,499,127 ",No
+Germany,Parliamentary,1983,89.09 %,"44,088,935 ","48,522,590 ","61,421,000 ",No
+Germany,Parliamentary,1980,88.57 %,"43,231,741 ","46,786,360 ","61,561,000 ",No
+Greece,Parliamentary,2015,63.94 %,"9,900,403 ","8,960,611 ","10,775,557 ",Yes
+Greece,Parliamentary,2012,62.47 %,"9,951,970 ","8,963,093 ","10,767,827 ",Yes
+Greece,Parliamentary,2009,70.92 %,"9,933,385 ","8,889,858 ","10,737,428 ",Yes
+Greece,Parliamentary,2007,74.14 %,"9,921,343 ","9,242,235 ","10,706,290 ",Yes
+Greece,Parliamentary,2004,76.62 %,"9,886,807 ","8,641,126 ","10,665,989 ",Yes
+Greece,Parliamentary,2000,74.97 %,"9,373,439 ","7,893,346 ","10,349,420 ",Yes
+Greece,Parliamentary,1996,76.34 %,"9,107,766 ","8,289,470 ","10,493,000 ",Yes
+Greece,Parliamentary,1993,82.95 %,"8,462,636 ","8,200,200 ","10,380,000 ",Yes
+Greece,Parliamentary,1989,84.50 %,"8,061,803 ","7,769,300 ","10,090,000 ",Yes
+Greece,Parliamentary,1985,83.81 %,"7,661,588 ","7,351,160 ","9,934,000 ",Yes
+Greece,Parliamentary,1981,81.50 %,"7,059,778 ","6,810,300 ","9,729,000 ",Yes
+Hungary,Parliamentary,2014,61.84 %,"8,241,488 ","8,043,818 ","9,919,128 ",No
+Hungary,Parliamentary,2010,64.38 %,"8,034,394 ","8,123,081 ","9,992,339 ",No
+Hungary,Parliamentary,2006,67.57 %,"8,076,781 ","7,928,311 ","10,076,581 ",No
+Hungary,Parliamentary,2002,70.52 %,"8,037,265 ","7,920,946 ","10,174,853 ",No
+Hungary,Parliamentary,1998,57.01 %,"8,016,397 ","7,742,951 ","10,056,000 ",No
+Hungary,Parliamentary,1994,68.92 %,"7,959,206 ","7,900,970 ","10,261,000 ",No
+Hungary,Parliamentary,1990,65.10 %,"7,824,110 ","7,773,750 ","10,365,000 ",No
+Iceland,Parliamentary,2016,79.18 %,"246,511 ","254,202 ","335,878 ",No
+Iceland,Parliamentary,2013,81.44 %,"237,957 ","242,209 ","321,857 ",No
+Iceland,Parliamentary,2009,85.12 %,"227,896 ","228,910 ","306,694 ",No
+Iceland,Parliamentary,2007,83.60 %,"221,368 ","218,641 ","301,931 ",No
+Iceland,Parliamentary,2003,87.70 %,"211,289 ","207,932 ","279,384 ",No
+Iceland,Parliamentary,1999,84.07 %,"201,525 ","196,604 ","276,418 ",No
+Iceland,Parliamentary,1995,87.38 %,"191,973 ","190,990 ","269,000 ",No
+Iceland,Parliamentary,1991,87.62 %,"182,768 ","180,600 ","258,000 ",No
+Iceland,Parliamentary,1987,90.10 %,"171,402 ","167,280 ","246,000 ",No
+Iceland,Parliamentary,1983,88.60 %,"150,977 ","151,680 ","237,000 ",No
+Iceland,Presidential,2016,75.67 %,"245,004 ","254,202 ","335,878 ",No
+Iceland,Presidential,2012,69.32 %,"235,495 ","236,899 ","313,183 ",No
+Iceland,Presidential,2004,62.92 %,"213,553 ","210,873 ","290,570 ",No
+Iceland,Presidential,1996,85.90 %,"194,784 ","192,410 ","271,000 ",No
+Iceland,Presidential,1988,72.80 %,"173,800 ","175,000 ","250,000 ",No
+Iceland,Presidential,1980,90.50 %,"143,196 ","141,360 ","228,000 ",No
+Ireland,Parliamentary,2016,65.09 %,"3,305,110 ","3,706,414 ","4,952,473 ",No
+Ireland,Parliamentary,2011,69.90 %,"3,209,244 ","3,516,795 ","4,670,976 ",No
+Ireland,Parliamentary,2007,67.03 %,"3,110,914 ","3,026,706 ","4,234,925 ",No
+Ireland,Parliamentary,2002,62.57 %,"3,002,173 ","2,804,939 ","3,840,838 ",No
+Ireland,Parliamentary,1997,65.92 %,"2,741,262 ","2,681,821 ","3,807,391 ",No
+Ireland,Parliamentary,1992,68.49 %,"2,557,036 ","2,377,830 ","3,549,000 ",No
+Ireland,Parliamentary,1989,68.51 %,"2,448,810 ","2,355,050 ","3,515,000 ",No
+Ireland,Parliamentary,1987,73.33 %,"2,445,515 ","2,302,950 ","3,543,000 ",No
+Ireland,Parliamentary,1982,72.86 %,"2,335,153 ","2,229,120 ","3,483,000 ",No
+Ireland,Parliamentary,1981,76.22 %,"2,275,450 ","2,201,600 ","3,440,000 ",No
+Ireland,Presidential,2011,56.11 %,"3,191,157 ","3,529,938 ","4,670,976 ",No
+Ireland,Presidential,1997,46.71 %,"2,739,529 ","2,681,821 ",,No
+Ireland,Presidential,1990,64.10 %,"2,471,308 ",,,No
+Israel,Parliamentary,2015,72.34 %,"5,881,696 ","5,591,000 ","8,320,100 ",No
+Israel,Parliamentary,2013,67.77 %,"5,656,705 ","5,237,623 ","7,590,758 ",No
+Israel,Parliamentary,2009,64.72 %,"5,278,985 ","4,864,490 ","7,233,701 ",No
+Israel,Parliamentary,2006,63.55 %,"5,014,622 ","4,478,165 ","7,116,700 ",No
+Israel,Parliamentary,2003,67.81 %,"4,720,074 ","4,205,484 ","6,748,400 ",No
+Israel,Parliamentary,2001,62.29 %,"4,504,769 ","4,032,998 ","6,508,800 ",No
+Israel,Parliamentary,1999,78.73 %,"4,285,428 ","3,994,784 ","6,089,384 ",No
+Israel,Parliamentary,1996,79.32 %,"3,933,250 ","3,684,850 ","5,669,000 ",No
+Israel,Parliamentary,1992,77.38 %,"3,409,015 ","3,227,490 ","5,123,000 ",No
+Israel,Parliamentary,1988,79.66 %,"2,894,267 ","2,798,460 ","4,442,000 ",No
+Israel,Parliamentary,1984,78.78 %,"2,654,613 ","2,600,280 ","4,194,000 ",No
+Israel,Parliamentary,1981,78.50 %,"2,490,014 ","2,447,760 ","3,948,000 ",No
+Italy,Parliamentary,2013,75.19 %,"46,905,154 ","51,620,536 ","61,482,297 ",No
+Italy,Parliamentary,2008,80.54 %,"47,126,326 ","47,961,929 ","58,147,733 ",No
+Italy,Parliamentary,2006,83.62 %,"46,997,601 ","47,848,339 ","58,103,033 ",No
+Italy,Parliamentary,2001,81.44 %,"49,358,947 ","47,332,575 ","57,684,294 ",No
+Italy,Parliamentary,1996,82.91 %,"48,846,238 ","46,363,590 ","57,239,000 ",No
+Italy,Parliamentary,1994,86.14 %,"48,135,041 ","45,641,100 ","57,049,000 ",No
+Italy,Parliamentary,1992,87.44 %,"47,435,964 ","44,918,610 ","56,859,000 ",Yes
+Italy,Parliamentary,1987,88.86 %,"45,689,829 ","43,008,750 ","57,345,000 ",Yes
+Italy,Parliamentary,1983,89.02 %,"43,936,534 ","42,627,000 ","56,836,000 ",Yes
+Japan,Parliamentary,2017,53.68 %,"106,091,229 ","106,658,434 ","126,451,398 ",No
+Japan,Parliamentary,2014,52.66 %,"101,280,758 ","102,617,759 ","127,103,388 ",No
+Japan,Parliamentary,2012,59.32 %,"103,959,866 ","103,345,755 ","127,103,388 ",No
+Japan,Parliamentary,2009,69.27 %,"103,949,442 ","103,833,813 ","127,078,679 ",No
+Japan,Parliamentary,2005,67.46 %,"103,067,966 ","104,373,789 ","127,417,244 ",No
+Japan,Parliamentary,2003,59.80 %,"102,306,684 ","103,577,642 ","127,214,499 ",No
+Japan,Parliamentary,2000,60.62 %,"100,433,798 ","103,155,387 ","126,996,466 ",No
+Japan,Parliamentary,1996,59.65 %,"97,680,719 ","96,672,730 ","125,549,000 ",No
+Japan,Parliamentary,1995,44.50 %,"97,320,000 ","96,460,210 ","125,273,000 ",
+Japan,Parliamentary,1993,67.02 %,"94,866,020 ","95,955,900 ","124,670,000 ",No
+Japan,Parliamentary,1990,73.31 %,"90,322,908 ","88,348,250 ","124,434,155 ",No
+Japan,Parliamentary,1986,63.99 %,"96,426,845 ","86,259,320 ","121,492,000 ",No
+Japan,Parliamentary,1983,67.94 %,"84,252,608 ","84,673,890 ","119,259,000 ",No
+Japan,Parliamentary,1980,74.56 %,"80,925,034 ","80,771,400 ","117,060,000 ",No
+"Korea, Republic of",Parliamentary,2016,58.03 %,"42,100,398 ","40,193,279 ","49,180,776 ",No
+"Korea, Republic of",Parliamentary,2012,54.26 %,"40,205,055 ","38,752,951 ","48,860,500 ",No
+"Korea, Republic of",Parliamentary,2008,46.01 %,"37,796,035 ","37,321,655 ","49,296,708 ",No
+"Korea, Republic of",Parliamentary,2004,59.98 %,"35,596,497 ","35,910,736 ","48,289,037 ",No
+"Korea, Republic of",Parliamentary,2000,57.21 %,"33,482,387 ","34,364,710 ","47,424,300 ",No
+"Korea, Republic of",Parliamentary,1996,63.91 %,"31,488,294 ","30,805,360 ","45,302,000 ",No
+"Korea, Republic of",Parliamentary,1992,71.86 %,"29,003,828 ","27,944,320 ","43,663,000 ",No
+"Korea, Republic of",Parliamentary,1988,75.73 %,"26,198,205 ","26,899,840 ","42,031,000 ",No
+"Korea, Republic of",Parliamentary,1985,84.57 %,"23,987,830 ","24,075,540 ","40,806,000 ",No
+"Korea, Republic of",Parliamentary,1981,78.42 %,"20,909,120 ","20,910,420 ","38,723,000 ",No
+"Korea, Republic of",Presidential,2017,77.20 %,"42,479,710 ","42,104,992 ","51,181,299 ",No
+"Korea, Republic of",Presidential,2012,75.84 %,"40,507,842 ","38,752,951 ","48,860,500 ",No
+"Korea, Republic of",Presidential,2007,63.01 %,"37,653,518 ","36,974,899 ","49,044,790 ",No
+"Korea, Republic of",Presidential,2002,70.83 %,"34,991,529 ","35,000,715 ","48,191,877 ",No
+"Korea, Republic of",Presidential,1997,80.65 %,"32,290,416 ","28,159,960 ","46,573,643 ",No
+"Korea, Republic of",Presidential,1992,,,"27,944,320 ","43,663,000 ",No
+Luxembourg,Parliamentary,2013,91.15 %,"239,668 ","396,354 ","514,862 ",Yes
+Luxembourg,Parliamentary,2009,90.93 %,"223,842 ","382,589 ","491,775 ",Yes
+Luxembourg,Parliamentary,2004,91.68 %,"217,979 ","353,691 ","455,000 ",Yes
+Luxembourg,Parliamentary,1999,86.51 %,"221,103 ","336,027 ","429,797 ",Yes
+Luxembourg,Parliamentary,1994,88.30 %,"217,131 ","316,790 ","401,000 ",Yes
+Luxembourg,Parliamentary,1989,87.39 %,"218,940 ","298,620 ","378,000 ",Yes
+Luxembourg,Parliamentary,1984,88.81 %,"215,792 ","286,770 ","363,000 ",Yes
+Mexico,Parliamentary,2015,47.72 %,"83,563,190 ","81,488,136 ",,Yes
+Mexico,Parliamentary,2012,62.45 %,"77,547,511 ","76,008,240 ","114,975,406 ",Yes
+Mexico,Parliamentary,2009,44.61 %,"77,470,785 ","72,347,857 ","111,211,789 ",Yes
+Mexico,Parliamentary,2006,58.90 %,"71,351,585 ","66,061,738 ","107,449,525 ",Yes
+Mexico,Parliamentary,2003,41.68 %,"64,710,596 ","62,077,369 ","103,400,165 ",Yes
+Mexico,Parliamentary,2000,57.24 %,"52,789,209 ","62,684,899 ","100,294,036 ",Yes
+Mexico,Parliamentary,1997,57.69 %,"52,208,966 ","55,406,943 ","95,529,212 ",Yes
+Mexico,Parliamentary,1994,77.73 %,"45,729,053 ","53,944,640 ","93,008,000 ",Yes
+Mexico,Parliamentary,1991,61.11 %,"39,517,979 ","48,309,800 ","87,836,000 ",Yes
+Mexico,Parliamentary,1988,49.43 %,"38,074,926 ","45,496,550 ","82,721,000 ",Yes
+Mexico,Parliamentary,1985,51.82 %,"35,278,369 ","40,527,760 ","77,938,000 ",Yes
+Mexico,Parliamentary,1982,72.56 %,"31,516,370 ","35,829,780 ","73,122,000 ",Yes
+Mexico,Presidential,2012,63.14 %,"77,738,494 ","76,008,240 ","114,975,406 ",Yes
+Mexico,Presidential,2006,58.55 %,"71,374,373 ","66,061,738 ","107,449,525 ",Yes
+Mexico,Presidential,2000,63.96 %,"58,789,209 ","62,684,899 ","100,294,036 ",Yes
+Mexico,Presidential,1994,78.50 %,"45,279,053 ","53,944,640 ","93,008,000 ",Yes
+Mexico,Presidential,1988,50.14 %,"38,074,926 ","45,496,550 ","82,721,000 ",Yes
+Mexico,Presidential,1982,74.84 %,"31,526,386 ","35,829,780 ","73,122,000 ",Yes
+Netherlands,Parliamentary,2017,81.93 %,"12,893,466 ","13,664,324 ","17,084,719 ",No
+Netherlands,Parliamentary,2012,74.56 %,"12,689,810 ","13,322,602 ","16,730,632 ",No
+Netherlands,Parliamentary,2010,75.40 %,"12,524,152 ","13,276,313 ","16,783,092 ",No
+Netherlands,Parliamentary,2006,80.35 %,"12,264,503 ","12,718,943 ","16,491,461 ",No
+Netherlands,Parliamentary,2003,80.04 %,"12,076,711 ","12,467,104 ","16,607,754 ",No
+Netherlands,Parliamentary,2002,79.06 %,"12,035,935 ","12,386,626 ","15,981,472 ",No
+Netherlands,Parliamentary,1998,73.23 %,"11,755,132 ","12,275,387 ","15,649,729 ",No
+Netherlands,Parliamentary,1994,78.75 %,"11,455,924 ","11,996,400 ","15,380,000 ",No
+Netherlands,Parliamentary,1989,80.27 %,"11,112,189 ","11,433,730 ","14,849,000 ",No
+Netherlands,Parliamentary,1986,85.76 %,"10,727,701 ","10,923,000 ","14,564,000 ",No
+Netherlands,Parliamentary,1982,80.98 %,"10,216,634 ","10,303,200 ","14,310,000 ",No
+Netherlands,Parliamentary,1981,87.03 %,"10,040,121 ","10,257,120 ","14,246,000 ",No
+New Zealand,Parliamentary,2017,79.75 %,"3,298,009 ","3,444,750 ","4,510,327 ",No
+New Zealand,Parliamentary,2014,76.95 %,"3,140,417 ","3,340,173 ","4,401,916 ",No
+New Zealand,Parliamentary,2011,74.21 %,"3,070,847 ","3,263,492 ","4,290,347 ",No
+New Zealand,Parliamentary,2008,79.46 %,"2,990,759 ","3,052,985 ","4,173,460 ",No
+New Zealand,Parliamentary,2005,80.29 %,"2,847,396 ","2,885,973 ","4,035,461 ",No
+New Zealand,Parliamentary,2002,76.98 %,"2,670,030 ","2,835,240 ","3,864,129 ",No
+New Zealand,Parliamentary,1999,84.77 %,"2,509,365 ","2,794,955 ","3,829,188 ",No
+New Zealand,Parliamentary,1996,88.28 %,"2,418,587 ","2,571,840 ","3,572,000 ",No
+New Zealand,Parliamentary,1993,85.20 %,"2,321,664 ","2,484,720 ","3,451,000 ",No
+New Zealand,Parliamentary,1990,85.24 %,"2,202,157 ","2,387,730 ","3,363,000 ",No
+New Zealand,Parliamentary,1987,89.06 %,"2,114,656 ","2,312,800 ","3,304,000 ",No
+New Zealand,Parliamentary,1984,93.71 %,"2,111,651 ","2,263,100 ","3,233,000 ",No
+New Zealand,Parliamentary,1981,91.44 %,"2,034,747 ","2,093,750 ","3,125,000 ",No
+Norway,Parliamentary,2017,78.22 %,"3,765,245 ","4,172,659 ","5,320,045 ",No
+Norway,Parliamentary,2013,78.23 %,"3,641,753 ","3,655,788 ","4,722,701 ",No
+Norway,Parliamentary,2009,76.37 %,"3,530,785 ","3,607,670 ","4,660,539 ",No
+Norway,Parliamentary,2005,77.44 %,"3,421,741 ","3,461,754 ","4,593,041 ",No
+Norway,Parliamentary,2001,75.48 %,"3,359,433 ","3,450,120 ","4,515,195 ",No
+Norway,Parliamentary,1997,78.33 %,"3,311,190 ","3,378,488 ","4,405,672 ",No
+Norway,Parliamentary,1993,75.85 %,"3,259,957 ","3,320,240 ","4,312,000 ",No
+Norway,Parliamentary,1989,83.16 %,"3,190,311 ","3,254,790 ","4,227,000 ",No
+Norway,Parliamentary,1985,84.03 %,"3,100,479 ","3,114,750 ","4,153,000 ",No
+Norway,Parliamentary,1981,81.99 %,"3,003,093 ","2,993,000 ","4,100,000 ",No
+Poland,Parliamentary,2015,50.92 %,"30,629,150 ","31,568,464 ","38,301,885 ",No
+Poland,Parliamentary,2011,48.92 %,"30,762,931 ","31,002,361 ","37,748,288 ",No
+Poland,Parliamentary,2007,53.88 %,"30,615,471 ","30,411,197 ","38,518,241 ",No
+Poland,Parliamentary,2005,40.57 %,"30,229,031 ","30,003,160 ","38,635,144 ",No
+Poland,Parliamentary,2001,46.18 %,"29,364,455 ","28,469,123 ","38,646,023 ",No
+Poland,Parliamentary,1997,47.93 %,"28,409,054 ","27,901,720 ","38,752,000 ",No
+Poland,Parliamentary,1993,52.08 %,"27,677,302 ","27,723,600 ","38,505,000 ",No
+Poland,Parliamentary,1991,43.20 %,"27,516,166 ","26,771,500 ","38,245,000 ",No
+Poland,Parliamentary,1989,62.11 %,"27,362,313 ","26,572,700 ","37,961,000 ",No
+Poland,Parliamentary,1985,78.86 %,"26,065,497 ",,"37,225,792 ",No
+Poland,Parliamentary,1980,98.87 %,"25,098,816 ",,"35,578,016 ",No
+Poland,Presidential,2015,55.34 %,"30,709,281 ","31,568,464 ","38,301,885 ",No
+Poland,Presidential,2010,55.31 %,"30,833,924 ","31,292,110 ","37,798,299 ",No
+Poland,Presidential,2005,50.99 %,"30,279,209 ","30,003,160 ","38,635,144 ",No
+Poland,Presidential,2000,61.12 %,"29,122,304 ","28,443,524 ","38,742,748 ",No
+Poland,Presidential,1995,68.23 %,"28,062,205 ","27,790,560 ","38,598,000 ",No
+Poland,Presidential,1990,53.40 %,"27,535,159 ","26,683,300 ","38,119,000 ",No
+Portugal,Parliamentary,2015,55.84 %,"9,684,922 ","8,757,878 ","10,825,309 ",No
+Portugal,Parliamentary,2011,58.03 %,"9,624,354 ","8,660,198 ","10,760,305 ",No
+Portugal,Parliamentary,2009,59.68 %,"9,519,921 ","8,589,299 ","10,707,924 ",No
+Portugal,Parliamentary,2005,64.26 %,"8,944,508 ","8,302,150 ","10,524,145 ",No
+Portugal,Parliamentary,2002,62.84 %,"8,882,561 ","8,135,142 ","10,066,253 ",No
+Portugal,Parliamentary,1999,61.05 %,"8,857,173 ","7,805,152 ","9,953,648 ",No
+Portugal,Parliamentary,1995,66.30 %,"8,906,608 ","7,463,960 ","9,821,000 ",No
+Portugal,Parliamentary,1991,68.18 %,"8,322,481 ","7,301,580 ","9,867,000 ",No
+Portugal,Parliamentary,1987,72.64 %,"7,741,149 ","7,195,680 ","9,994,000 ",No
+Portugal,Parliamentary,1985,75.37 %,"7,621,504 ","7,207,920 ","10,011,000 ",No
+Portugal,Parliamentary,1983,78.64 %,"7,159,349 ","7,271,280 ","10,099,000 ",No
+Portugal,Parliamentary,1980,85.45 %,"6,925,243 ","6,731,320 ","9,899,000 ",No
+Portugal,Presidential,2016,48.70 %,"9,732,123 ","8,781,766 ","10,833,816 ",No
+Portugal,Presidential,2011,46.52 %,"9,656,797 ","8,660,198 ","10,760,305 ",No
+Portugal,Presidential,2006,61.53 %,"9,085,339 ","8,347,336 ","10,566,212 ",No
+Portugal,Presidential,2001,50.03 %,"8,932,106 ","7,812,959 ","9,963,604 ",No
+Portugal,Presidential,1996,66.29 %,"8,693,636 ","7,461,680 ","9,818,000 ",No
+Portugal,Presidential,1991,61.92 %,"8,235,151 ","7,301,580 ","9,867,000 ",No
+Portugal,Presidential,1986,78.15 %,"7,600,001 ","7,207,920 ","10,011,000 ",No
+Portugal,Presidential,1980,84.18 %,"6,931,641 ","6,731,320 ","9,899,000 ",No
+Slovakia,Parliamentary,2016,59.82 %,"4,426,760 ","4,455,753 ","5,445,802 ",No
+Slovakia,Parliamentary,2012,59.11 %,"4,392,451 ","4,488,381 ","5,483,088 ",No
+Slovakia,Parliamentary,2010,58.84 %,"4,362,369 ","4,396,639 ","5,470,306 ",No
+Slovakia,Parliamentary,2006,54.67 %,"4,272,517 ","4,141,957 ","5,439,448 ",No
+Slovakia,Parliamentary,2002,70.07 %,"4,157,802 ","4,067,252 ","5,379,455 ",No
+Slovakia,Parliamentary,1998,84.25 %,"4,023,191 ","4,297,856 ","5,274,335 ",No
+Slovakia,Parliamentary,1994,75.41 %,"3,876,555 ","3,849,840 ","5,347,000 ",No
+Slovakia,Parliamentary,1992,84.68 %,"11,515,699 ","11,640,940 ","15,731,000 ",No
+Slovakia,Parliamentary,1990,96.33 %,"11,195,596 ","11,589,140 ","15,661,000 ",No
+Slovakia,Presidential,2014,50.48 %,"4,406,261 ","4,351,806 ","5,443,583 ",No
+Slovakia,Presidential,2009,51.67 %,"4,339,257 ","4,375,254 ","5,463,046 ",No
+Slovakia,Presidential,2004,43.48 %,"4,202,597 ","4,141,957 ","5,430,033 ",No
+Slovakia,Presidential,1999,75.42 %,"4,041,181 ","3,767,042 ","5,392,982 ",No
+Slovenia,Parliamentary,2014,51.73 %,"1,713,067 ","1,638,247 ","1,988,292 ",No
+Slovenia,Parliamentary,2011,65.60 %,"1,709,692 ","1,674,170 ","2,000,092 ",No
+Slovenia,Parliamentary,2008,63.10 %,"1,696,437 ","1,645,967 ","2,007,711 ",No
+Slovenia,Parliamentary,2004,60.64 %,"1,634,402 ","1,622,422 ","2,011,473 ",No
+Slovenia,Parliamentary,2000,70.36 %,"1,586,695 ","1,543,425 ","1,987,985 ",No
+Slovenia,Parliamentary,1996,73.67 %,"1,542,218 ","1,499,960 ","1,948,000 ",No
+Slovenia,Parliamentary,1992,85.90 %,"1,490,434 ","1,497,000 ","1,996,000 ",No
+Slovenia,Presidential,2017,44.24 %,"1,713,762 ","1,656,072 ","1,972,126 ",No
+Slovenia,Presidential,2012,42.41 %,"1,711,461 ","1,671,967 ","1,996,617 ",No
+Slovenia,Presidential,2007,58.45 %,"1,720,174 ","1,641,161 ","2,009,245 ",No
+Slovenia,Presidential,2002,65.24 %,"1,610,234 ","1,604,505 ","1,930,132 ",No
+Slovenia,Presidential,1997,68.65 %,"1,550,775 ","1,495,460 ","1,942,000 ",No
+Slovenia,Presidential,1992,85.84 %,"1,491,374 ","1,497,000 ","1,996,000 ",No
+Slovenia,Presidential,1990,,,"1,498,500 ","1,998,000 ",No
+Spain,Parliamentary,2016,69.84 %,"34,597,038 ","39,691,061 ","48,563,476 ",No
+Spain,Parliamentary,2015,73.20 %,"34,631,086 ","39,368,731 ","48,146,134 ",No
+Spain,Parliamentary,2011,68.94 %,"35,779,491 ","38,995,155 ","47,021,031 ",No
+Spain,Parliamentary,2008,75.32 %,"33,875,268 ","36,819,817 ","45,283,259 ",No
+Spain,Parliamentary,2004,75.66 %,"34,571,831 ","34,304,048 ","42,345,342 ",No
+Spain,Parliamentary,2000,68.71 %,"33,969,640 ","31,631,640 ","39,394,773 ",No
+Spain,Parliamentary,1996,78.06 %,"32,007,554 ","31,013,030 ","39,257,000 ",No
+Spain,Parliamentary,1993,77.05 %,"31,030,511 ","30,875,570 ","39,083,000 ",No
+Spain,Parliamentary,1989,70.01 %,"29,694,055 ","29,166,000 ","38,888,000 ",No
+Spain,Parliamentary,1986,70.37 %,"29,117,613 ","27,794,880 ","38,604,000 ",No
+Spain,Parliamentary,1982,79.83 %,"26,855,301 ","25,795,580 ","37,935,000 ",No
+Sweden,Parliamentary,2014,85.81 %,"7,330,432 ","7,614,029 ","9,723,809 ",No
+Sweden,Parliamentary,2010,84.63 %,"7,123,651 ","7,296,284 ","9,074,055 ",No
+Sweden,Parliamentary,2006,81.99 %,"6,892,009 ","7,010,777 ","9,082,995 ",No
+Sweden,Parliamentary,2002,80.11 %,"6,722,152 ","6,900,985 ","8,876,744 ",No
+Sweden,Parliamentary,1998,81.39 %,"6,603,129 ","6,915,438 ","8,780,000 ",No
+Sweden,Parliamentary,1994,86.82 %,"6,496,365 ","6,848,400 ","8,780,000 ",No
+Sweden,Parliamentary,1991,86.74 %,"6,413,172 ","6,721,260 ","8,617,000 ",No
+Sweden,Parliamentary,1988,85.96 %,"6,330,023 ","6,580,860 ","8,437,000 ",No
+Sweden,Parliamentary,1985,89.85 %,"6,249,445 ","6,513,000 ","8,350,000 ",No
+Sweden,Parliamentary,1982,91.45 %,"6,130,993 ","6,327,000 ","8,325,000 ",No
+Turkey,Parliamentary,2015,85.18 %,"56,965,099 ","57,579,752 ","82,523,053 ",Yes
+Turkey,Parliamentary,2014,74.13 %,"55,692,841 ","55,249,398 ","81,619,392 ",Yes
+Turkey,Parliamentary,2011,87.59 %,"50,189,930 ","50,809,416 ","73,722,988 ",Yes
+Turkey,Parliamentary,2007,84.25 %,"42,799,303 ","48,423,209 ","71,158,647 ",Yes
+Turkey,Parliamentary,2002,79.28 %,"41,333,105 ","43,198,055 ","66,493,970 ",Yes
+Turkey,Parliamentary,1999,87.09 %,"37,495,217 ","40,626,996 ","64,504,287 ",Yes
+Turkey,Parliamentary,1995,85.20 %,"34,155,981 ","36,812,460 ","62,394,000 ",Yes
+Turkey,Parliamentary,1991,83.92 %,"29,979,123 ","31,529,300 ","57,326,000 ",Yes
+Turkey,Parliamentary,1987,93.28 %,"26,376,926 ","26,806,110 ","52,561,000 ",Yes
+Turkey,Parliamentary,1983,92.27 %,"19,740,500 ","24,112,290 ","47,279,000 ",Yes
+Turkey,Presidential,2014,74.13 %,"55,692,841 ","55,509,734 ","81,619,392 ",Yes
+United Kingdom,Parliamentary,2017,68.93 %,"46,824,978 ","51,329,650 ","64,769,452 ",No
+United Kingdom,Parliamentary,2015,66.12 %,"46,425,386 ","50,780,423 ","64,088,222 ",No
+United Kingdom,Parliamentary,2010,65.77 %,"45,597,461 ","49,116,522 ","62,348,447 ",No
+United Kingdom,Parliamentary,2005,61.36 %,"44,245,939 ","46,554,470 ","60,270,708 ",No
+United Kingdom,Parliamentary,2001,59.38 %,"44,403,238 ","45,804,132 ","59,434,645 ",No
+United Kingdom,Parliamentary,1997,71.46 %,"43,784,559 ","45,093,510 ","58,563,000 ",No
+United Kingdom,Parliamentary,1992,77.83 %,"43,240,084 ","44,658,460 ","57,998,000 ",No
+United Kingdom,Parliamentary,1987,75.42 %,"43,180,573 ","43,326,080 ","57,008,000 ",No
+United Kingdom,Parliamentary,1983,72.81 %,"42,192,999 ","42,846,520 ","56,377,000 ",No
+United States,Parliamentary,2016,65.44 %,"214,109,367 ","250,293,421 ","323,995,528 ",No
+United States,Parliamentary,2014,42.50 %,"190,669,639 ","245,712,915 ","318,892,103 ",No
+United States,Parliamentary,2012,64.44 %,"193,653,908 ","240,926,957 ","312,780,968 ",No
+United States,Parliamentary,2010,48.59 %,"186,874,157 ","235,809,266 ","308,282,053 ",No
+United States,Parliamentary,2008,64.36 %,"190,461,401 ","233,087,000 ","303,824,640 ",No
+United States,Parliamentary,2006,47.52 %,"172,805,006 ","220,043,054 ","298,444,215 ",No
+United States,Parliamentary,2004,68.75 %,"177,265,030 ","220,336,019 ","293,027,571 ",No
+United States,Parliamentary,2002,45.31 %,"162,993,315 ","210,464,504 ","278,058,881 ",No
+United States,Parliamentary,2000,63.76 %,"156,421,311 ","210,623,408 ","284,970,789 ",No
+United States,Parliamentary,1998,51.55 %,"141,850,558 ","210,446,120 ","280,298,524 ",No
+United States,Parliamentary,1996,65.97 %,"146,211,960 ","196,511,000 ","265,679,000 ",No
+United States,Parliamentary,1994,57.64 %,"130,292,822 ","193,650,000 ","262,090,745 ",No
+United States,Parliamentary,1992,78.02 %,"133,821,178 ","189,529,000 ","255,407,000 ",No
+United States,Parliamentary,1990,56.03 %,"121,105,630 ","185,812,000 ","248,709,873 ",No
+United States,Parliamentary,1988,72.48 %,"126,379,628 ","182,778,000 ","245,057,000 ",No
+United States,Parliamentary,1986,54.89 %,"118,399,984 ","178,566,000 ","239,529,693 ",No
+United States,Parliamentary,1984,74.63 %,"124,150,614 ","174,466,000 ","236,681,000 ",No
+United States,Parliamentary,1982,61.10 %,"110,671,225 ","169,938,000 ","233,697,676 ",No
+United States,Parliamentary,1980,76.53 %,"113,043,734 ","164,597,000 ","227,738,000 ",No
+United States,Presidential,2016,65.44 %,"214,109,367 ","250,293,421 ","323,995,528 ",No
+United States,Presidential,2012,66.66 %,"193,653,908 ","240,926,957 ","312,780,968 ",No
+United States,Presidential,2008,70.33 %,"190,461,401 ","233,087,000 ","303,824,640 ",No
+United States,Presidential,2004,88.50 %,"142,070,000 ","220,336,019 ","293,027,571 ",No
+United States,Presidential,2000,85.55 %,"129,549,000 ","210,623,408 ","284,970,789 ",No
+United States,Presidential,1996,82.26 %,"127,661,000 ","196,511,000 ","265,679,000 ",No
+United States,Presidential,1992,89.96 %,"126,578,000 ","189,529,000 ","255,407,000 ",No
+United States,Presidential,1988,86.20 %,"118,589,000 ","182,778,000 ","245,057,000 ",No
+United States,Presidential,1984,87.75 %,"116,106,000 ","174,466,000 ","236,681,000 ",No
+United States,Presidential,1980,88.60 %,"105,035,000 ","164,597,000 ","227,738,000 ",No
